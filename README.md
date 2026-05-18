@@ -1,2 +1,4 @@
 # KMPG-Data-Analysis-with-Execl
-Cleaned and standardized customer, transaction, and demographic data for accuracy. Segmented customers by wealth, gender, and industry to uncover key patterns. Analyzed sales trends, product performance, and estimated revenue &amp; CLV to identify high‑value segments.
+Cleaned and standardized customer, transaction, and Performedata to ensure consistency and accuracy for demographic.
+Performed customer segmentation by wealth, gender, and industry, uncovering key groups, behavioral patterns, and revenue drivers.
+Analyzed sales trends and product performance, aand estimated potential revenue and CLV to identify hhigh-value customer segments
